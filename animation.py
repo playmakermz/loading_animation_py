@@ -13,6 +13,9 @@ print("""
 
 """)
 
+print ('press any button')
+mulai = input()
+
 while True:
     for i in range (1,2):
         print("""
