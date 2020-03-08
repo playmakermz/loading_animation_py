@@ -13,7 +13,7 @@ print("""
 
 """)
 
-print ('press any button')
+print ('press any button, and press enter')
 mulai = input()
 
 while True:
